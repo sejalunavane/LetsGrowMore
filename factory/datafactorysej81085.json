@@ -1,0 +1,15 @@
+{
+	"name": "datafactorysej81085",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b11c5800-1f2f-4c2d-b8cd-cbb85aadb1c8",
+		"tenantId": "1176dbbd-fb29-4cd0-851a-792fb5335f7d"
+	}
+}
